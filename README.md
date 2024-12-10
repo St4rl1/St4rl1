@@ -1,8 +1,8 @@
 # ⭐ Starli
 
-**`Web Developer`**
+**`Web Developer & Cyber Security Fan`**
 
-I'm a full-stack web developer. I build all coding projects from scratch and design their appearance. I specialize in creating high-performance web applications using modern technologies. My goal is to solve real-world problems through clean, efficient, and maintainable code.
+I'm a full-stack web developer and cyber security fan. I build all coding projects from scratch and design their appearance. I specialize in creating high-performance web applications using modern technologies.
 
 ---
 
