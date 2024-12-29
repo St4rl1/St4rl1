@@ -1,8 +1,6 @@
-<img align="right" width="200px" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="Shiba Inu Typing"/>
-
 # ⭐ Hi, I'm Starli
 
-
+<img align="right" width="200px" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="Shiba Inu Typing"/>
 
 **`Web Developer & Cyber Security Fan`**
 <br/>
@@ -15,7 +13,6 @@
 
 
 ---
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -32,7 +29,7 @@
 ---
 
 
-<img align="right" width="265px" src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif" alt="Hacker GIF" />
+<img align="right" width="200px" src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif" alt="Hacker GIF" />
 
 ☁️ I like to learn new things on TryHackMe and HackTheBox <br/>
 📘 Currently reading [Bug Bounty Bootcamp](https://www.amazon.com/Bug-Bounty-Bootcamp-Reporting-Vulnerabilities-ebook/dp/B08YK368Y3) <br/>
