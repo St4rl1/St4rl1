@@ -2,7 +2,9 @@
 
 **`Web Developer & Cyber Security Fan`**
 
-I'm a full-stack web developer and cyber security fan. I build all coding projects from scratch and design their appearance. I specialize in creating high-performance web applications using modern technologies.
+🧑🏻‍💻 I build websites from front-end to back-end
+💻 I enjoy ethical hacking
+💡 I'm always learning new things
 
 ---
 
@@ -19,8 +21,6 @@ I'm a full-stack web developer and cyber security fan. I build all coding projec
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
 
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=st4rl1&show_icons=true&theme=gruvbox)
+### ✍️ Dev Quote to make your day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
