@@ -1,10 +1,18 @@
-# ⭐ Starli
+
+
+# ⭐ Hi, I'm Starli
+
+<img align="right" width="200px" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="Shiba Inu Typing"/>
 
 **`Web Developer & Cyber Security Fan`**
+<br/>
 
-🧑🏻‍💻 I build websites from front-end to back-end
-💻 I enjoy ethical hacking
-💡 I'm always learning new things
+🧑🏻‍💻 I build websites from front-end to back-end <br/>
+💻 I enjoy ethical hacking <br/>
+🐾 I enjoy doing CTF challenges <br/>
+💡 I'm always learning new things 
+
+
 
 ---
 
@@ -21,6 +29,18 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+---
+
+
+<img align="right" width="265px" src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif" alt="Hacker GIF" />
+
+☁️ I like to learn new things on TryHackMe and HackTheBox <br/>
+📘 Currently reading [Bug Bounty Bootcamp](https://www.amazon.com/Bug-Bounty-Bootcamp-Reporting-Vulnerabilities-ebook/dp/B08YK368Y3) <br/>
+
+
+
 
 ### ✍️ Dev Quote to make your day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
