@@ -1,8 +1,8 @@
-
+<img align="right" width="200px" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="Shiba Inu Typing"/>
 
 # ⭐ Hi, I'm Starli
 
-<img align="right" width="200px" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="Shiba Inu Typing"/>
+
 
 **`Web Developer & Cyber Security Fan`**
 <br/>
