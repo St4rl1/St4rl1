@@ -1,10 +1,9 @@
 # ⭐ Hi, I'm Starli
 
-**`Programmer & Cyber Security Fan`**
-
 <img align="right" width="200px" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="Shiba Inu Typing"/>
-<br/>
 
+
+**`Programmer & Cyber Security Fan`**
 
 🧑🏻‍💻 I build websites from front-end to back-end <br/>
 💻 I enjoy ethical hacking <br/>
